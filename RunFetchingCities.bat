@@ -1,0 +1,1 @@
+start cmd /k "start http://localhost:8000/api/fetching/cities"
