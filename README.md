@@ -1,0 +1,2 @@
+# SPRINT-2-Swapable-Implementation-
+Membuat sumber data pencarian province &amp; cities bisa melalui database​ atau direct API​ raja ongkir (swapable implementation). Proses swap implementasi dapat dilakukan melalui konfigurasi tanpa merubah source code yang sudah dibuat. Menyediakan API login agar endpoint pencarian hanya bisa diakses oleh authorized user saja. Membuat unit test / API test agar web service tetap reliable &amp; maintainable
